@@ -6,3 +6,7 @@ This directory contains ~1000 different images of 7 different types of minerals 
 
 # notebooks
 This directory contains the notebook utilized to create the PyTorch model for image classification as well as an export of the model itself.
+
+# requirements.txt
+This project was created by utilizing an Anaconda environment.  This environment and dependencies can be recreated by utilizing the following line of code.<br>
+$ conda create --name \<env> --file \<this file>
